@@ -1,0 +1,33 @@
+Research Questions for Business Analysis:
+
+Market Analysis:
+a. What is the market share of JD.com in the specific product category during the month of March 2018?
+b. How does JD.com's net revenue compare to competitors in the online retail industry?
+c. What are the key factors driving customer choice and loyalty towards JD.com?
+
+Customer Segmentation:
+a. Can we identify distinct customer segments based on user demographics, purchase behavior, and user level?
+b. How do different customer segments contribute to JD.com's revenue and profitability?
+c. What are the unique needs and preferences of each customer segment, and how can JD.com tailor its offerings to meet their demands?
+
+Pricing and Promotions:
+a. How effective are different pricing strategies and promotions in driving sales and customer engagement?
+b. What is the impact of SKU discounts, bundle promotions, and gift items on customer purchase decisions?
+c. Can we identify optimal pricing levels and promotional tactics to maximize revenue and profitability?
+
+Customer Satisfaction and Delivery Speed:
+a. How does order fulfillment (dc_ori and dc_des) impact delivery speed and customer satisfaction?
+b. Are there any correlations between delivery speed, customer reviews, and repeat purchases?
+c. What are the key factors influencing customer satisfaction with JD.com's delivery service, and how can they be improved?
+
+Customer Retention and Loyalty:
+a. What are the factors influencing customer retention and repeat purchases on JD.com?
+b. How does user level and PLUS membership impact customer loyalty and lifetime value?
+c. What strategies can JD.com implement to enhance customer loyalty and encourage repeat purchases?
+
+Growth Opportunities:
+a. Are there any untapped market segments or product categories that JD.com can expand into?
+b. How can JD.com leverage data-driven insights to identify new business opportunities and improve its competitive advantage?
+c. What partnerships or collaborations can JD.com explore to further expand its customer base and market reach?
+
+These research questions focus on understanding market dynamics, customer segmentation, pricing strategies, delivery service, customer retention, and growth opportunities for JD.com. By analyzing these aspects of the business, JD.com can make informed decisions to enhance customer satisfaction, drive revenue growth, and maintain a competitive edge in the online retail industry.
