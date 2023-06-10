@@ -1,0 +1,30 @@
+Research Questions for Data Analysis:
+
+SKU Analysis:
+a. What are the characteristics and attributes of the SKUs in the dataset?
+b. How many SKUs were active during the month of March 2018, and how many were deactivated?
+c. What is the distribution of SKU types (1P vs. 3P)?
+d. How does SKU performance (based on attributes) correlate with sales and customer behavior?
+
+User Analysis:
+a. What are the demographic characteristics of the users in the dataset?
+b. What is the distribution of user levels and their relationship with purchase behavior?
+c. How many users made their first purchase in March 2018, and what are their characteristics?
+d. How does user level and PLUS membership relate to purchase behavior and customer loyalty?
+e. What are the most common shipping addresses and their corresponding city levels?
+
+Order Analysis:
+a. What is the overall order volume and distribution of order quantities?
+b. What is the distribution of SKU types (1P vs. 3P) in customer orders?
+c. How do pricing factors (original price, final price, discounts) influence customer purchases?
+d. What are the common types of promotions (direct discount, group promotion, bundle promotion, gift items, coupons) and their impact on sales?
+e. How does order fulfillment (dc_ori and dc_des) impact delivery speed and customer satisfaction?
+
+Customer Behavior Analysis:
+a. What are the trends and patterns in customer purchasing behavior throughout the month of March 2018?
+b. How does user level and demographic information (gender, age, marriage, education, purchase power) relate to purchase behavior?
+c. Are there any correlations between SKU attributes and customer preferences?
+d. Can we identify any customer segments based on their purchasing behavior and demographic characteristics?
+e. How does customer behavior differ between first-time purchasers and repeat customers?
+
+These research questions aim to uncover insights about SKU characteristics, user demographics, purchasing behavior, promotional strategies, and order fulfillment. By analyzing the data, we can gain a deeper understanding of JD.com's customer experience cycle and identify opportunities for business optimization and strategic decision-making.
